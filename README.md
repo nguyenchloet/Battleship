@@ -1,4 +1,4 @@
 # Battleship
 Object-Oriented Console Battleship Game
 
-![Battleship Console Game Screenshot](https://github.com/nguyenchloet/Battleship/blob/main/Battleship.png)
+<img src="https://github.com/nguyenchloet/Battleship/blob/main/Battleship.png" alt="Battleship Console Game Screenshot" style="width:200px">
